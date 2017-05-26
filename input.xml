@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<atlas-document id="io2147419sl396955277" required-dtd-version="04.24.00">
+    <wkdoc:document xmlns:wkdoc="http://www.wkpublisher.com/xml-namespaces/document" xmlns:wkfinder="http://www.wkpublisher.com/xml-namespaces/finder" xmlns:wkgraphic="http://www.wkpublisher.com/xml-namespaces/graphic" xmlns:wkrul="http://www.wkpublisher.com/xml-namespaces/ruling"
+        xmlns:wkpractice-aid="http://www.wkpublisher.com/xml-namespaces/practice-aid" xmlns:wklink="http://www.wkpublisher.com/xml-namespaces/links" xmlns:wkpend-leg="http://www.wkpublisher.com/xml-namespaces/pending-legislation" xmlns:wkauth-rule-proc="http://www.wkpublisher.com/xml-namespaces/auth-rule-proc"
+        xmlns:wkcase-law="http://www.wkpublisher.com/xml-namespaces/case-law" xmlns:wkcom-rep="http://www.wkpublisher.com/xml-namespaces/committee-report" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:wkagency-pub="http://www.wkpublisher.com/xml-namespaces/agency-pub"
+        xmlns:wkchange-track="http://www.wkpublisher.com/xml-namespaces/change-tracking" xmlns:wkmedia="http://www.wkpublisher.com/xml-namespaces/media" xmlns:wkattachment="http://www.wkpublisher.com/xml-namespaces/attachment" xmlns:wkform="http://www.wkpublisher.com/xml-namespaces/form"
+        xmlns:wknews="http://www.wkpublisher.com/xml-namespaces/news" xmlns:wkreg="http://www.wkpublisher.com/xml-namespaces/reg" xmlns:wklaw="http://www.wkpublisher.com/xml-namespaces/law" xmlns:wkext-meta="http://www.wkpublisher.com/xml-namespaces/extensible-metadata"
+        xmlns:wkinternational="http://www.wkpublisher.com/xml-namespaces/international" xmlns:wktable="http://www.wkpublisher.com/xml-namespaces/table" xmlns:wkperiodical="http://www.wkpublisher.com/xml-namespaces/periodical" id="io2147419sl396955277" required-dtd-version="04.17.01"
+        searchable="yes">
+        <heading flow-type="paragraph">TR 2013/1 INCOME TAX: THE IDENTIFICATION OF “EMPLOYER” FOR THE PURPOSES OF THE SHORT-TERM VISIT EXCEPTION UNDER THE INCOME FROM EMPLOYMENT ARTICLE, OR ITS EQUIVALENT, OF AUSTRALIA’S TAX TREATIES (TR 2013/1)</heading>
+        <wkdoc:level id="io2145559sl396569542" level-type="flush">
+            <para align="left">Related Releases:
+                <anchor id="io2145559sl396569543"></anchor>
+                <cite-ref handle="ATRU_HANDLE" id="io2145559sl396569543" search-value="io564130sl17262583">TR 2001/13</cite-ref>;
+                <anchor id="io2145559sl396569544"></anchor>
+                <cite-ref handle="ATRU_HANDLE" id="io2145559sl396569544" search-value="io564447sl17266650">TR 2005/16</cite-ref>;
+                <anchor id="io2145559sl396569545"></anchor>
+                <cite-ref handle="ATRU_HANDLE" id="io2145559sl396569545" search-value="io564512sl17267456">SGR 2005/1</cite-ref>;
+                <anchor id="io2145559sl396569546"></anchor>
+                <cite-ref handle="ATRU_HANDLE" id="io2145559sl396569546" search-value="io576327sl18184908">SGR 2005/2</cite-ref>; TR 2003/11 (withdrawn); issued in draft form as TR 2012/D4.</para>
+            <para align="left"> </para>
+            <para align="left">
+                <italic>Income tax — International — Double tax agreements — Employment of non-residents — Employment Article — General rule that employment income taxed by state in which services are rendered — Short-term visit exception to general rule.</italic>
+            </para>
+            <para align="left"> </para>
+            <para align="left"> </para>
+            <para align="left"> </para>
+            <para align="left">
+                <bold>• This publication provides you with the following level of protection:</bold>
+            </para>
+        </wkdoc:level>
+        <wkdoc:level id="io2145927sl396751369" level-type="flush">
+            <para align="left"> </para>
+            <para align="left"> </para>
+            <xhtml:table cellspacing="0" cellpadding="0" width="100%" border="1">
+                <xhtml:colgroup>
+                    <xhtml:col span="1"></xhtml:col>
+                </xhtml:colgroup>
+                <xhtml:tr>
+                    <xhtml:td>
+                        <note type="cch-comment">
+                            <para>ITAA 1997 8-1</para>
+                            <para></para>
+                            <para>ITAA 1997 Part 2-42</para>
+                            <para></para>
+                            <para>Convention between Australia and Canada for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income
+                                <anchor id="io2145927sl396751371"></anchor>[1981] ATS 14, as amended by the
+                                <italic>Canadian protocol (No. 1)</italic>
+                                <anchor id="io2145927sl396751372"></anchor>[2002] ATS 26 (Canadian convention)</para>
+                        </note>
+                    </xhtml:td>
+                </xhtml:tr>
+            </xhtml:table>
+            <para align="left"> </para>
+            <xhtml:table cellspacing="0" cellpadding="4">
+                <xhtml:colgroup>
+                    <xhtml:col span="1" width="80%"></xhtml:col>
+                    <xhtml:col span="1" width="20%"></xhtml:col>
+                </xhtml:colgroup>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Contents</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>LEGALLY BINDING SECTION:</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>What this Ruling is about</bold>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>1</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Previous Ruling</bold>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>4</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Ruling</bold>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>5</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Examples</bold>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>17</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Date of effect</bold>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>50</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>NOT LEGALLY BINDING SECTION:</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Appendix 1:</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <italic>
+                                <bold>Explanation</bold>
+                            </italic>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>51</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Appendix 2:</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <italic>
+                                <bold>Glossary of terms</bold>
+                            </italic>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>131</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Appendix 3:</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <italic>
+                                <bold>Extract from the Commentary to Article 15 of the OECD Model</bold>
+                            </italic>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>132</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <bold>Appendix 4:</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+                <xhtml:tr>
+                    <xhtml:td class="table_cell" valign="top" style="nowrap:true;width:80%;">
+                        <para>
+                            <italic>
+                                <bold>Detailed contents list</bold>
+                            </italic>
+                        </para>
+                    </xhtml:td>
+                    <xhtml:td class="table_cell" align="right" valign="top" style="nowrap:true;width:20%;">
+                        <para>
+                            <bold>133</bold>
+                        </para>
+                    </xhtml:td>
+                </xhtml:tr>
+            </xhtml:table>
+            <para align="left"> </para>
+            <h1 flow-type="paragraph">
+                <bold>What this Ruling is about</bold>
+            </h1>
+            <para align="left"> </para>
+            <para align="left">
+                <anchor id="io2147419sl396955277HtrU2013/1DpP1P"></anchor>
+            </para>
+            <para align="left">1. This Ruling explains: </para>
+            <unordered-list token="none">
+                <list-item>
+                    <para>• the meaning of the term ‘employer’ in the general exclusion provision provided under the Income from Employment Article, or its equivalent,
+                        <footnote id="io2147419sl396955277f1" num="1">
+                            <para> </para>
+                            <para>The heading of equivalent Articles in other tax treaties vary. Consistent with the heading of Article 15 of the OECD Model until it changed in 2000, many such Articles are headed ‘Dependent Personal Services’, for example,
+                                Article 15 of the Canadian convention. Others may have no heading at all, for example, Article 14 of the German agreement and Article 12 of the Singaporean agreement.</para>
+                            <para> </para>
+                        </footnote> of Australia’s tax treaties (‘short-term visit exception’;
+                        <footnote id="io2147419sl396955277f2" num="2">
+                            <para> </para>
+                            <para>Appendix 2 of this Ruling sets out a glossary for some terms used in this Ruling: ‘intermediary’, ‘international labour hire arrangements’, ‘short-term visit exception’ and ‘user enterprise’.</para>
+                            <para> </para>
+                        </footnote>) and</para>
+                </list-item>
+                <list-item>
+                    <para>• the approach to be taken in determining who the employer is for the purposes of the short-term visit exception.</para>
+                </list-item>
+            </unordered-list>
+            <para align="left"> </para>
+            <para align="left"> </para>
+            <para align="left">
+                <anchor id="io2147419sl396955277HtrU2013/1DpP2P"></anchor>
+            </para>
+            <para align="left">2. This Ruling applies to entities that engage non-resident individuals to render services in Australia and to those non-resident individuals.</para>
+        </wkdoc:level>
+
+    </wkdoc:document>
+</atlas-document>

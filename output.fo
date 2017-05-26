@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><fo:root xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:wkdoc="http://www.wkpublisher.com/xml-namespaces/document"><fo:layout-master-set><fo:simple-page-master master-name="A4" page-width="500mm" page-height="250mm"><fo:region-body/></fo:simple-page-master></fo:layout-master-set><fo:page-sequence master-reference="A4"><fo:flow flow-name="xsl-region-body"><fo:block margin="0px 10px 10px 1px" color="#333333">
+    
+        <fo:block font-weight="bold" font-size="13px" padding="10px 0px  0px 0px" margin="0px 0px 20px 0px">TR 2013/1 INCOME TAX: THE IDENTIFICATION OF “EMPLOYER” FOR THE PURPOSES OF THE SHORT-TERM VISIT EXCEPTION UNDER THE INCOME FROM EMPLOYMENT ARTICLE, OR ITS EQUIVALENT, OF AUSTRALIA’S TAX TREATIES (TR 2013/1)</fo:block>
+        <fo:block>
+            <fo:block margin="10px 10px 10px 2px" font-size="11px">Related Releases:
+                
+                <fo:basic-link external-destination="http://google.com/?q=io564130sl17262583" color="#0b61a8" font-weight="bold" text-decoration="none">TR 2001/13</fo:basic-link>;
+                
+                <fo:basic-link external-destination="http://google.com/?q=io564447sl17266650" color="#0b61a8" font-weight="bold" text-decoration="none">TR 2005/16</fo:basic-link>;
+                
+                <fo:basic-link external-destination="http://google.com/?q=io564512sl17267456" color="#0b61a8" font-weight="bold" text-decoration="none">SGR 2005/1</fo:basic-link>;
+                
+                <fo:basic-link external-destination="http://google.com/?q=io576327sl18184908" color="#0b61a8" font-weight="bold" text-decoration="none">SGR 2005/2</fo:basic-link>; TR 2003/11 (withdrawn); issued in draft form as TR 2012/D4.</fo:block>
+            
+            <fo:block margin="10px 10px 10px 2px" font-size="11px">
+                <fo:inline font-style="italic">Income tax — International — Double tax agreements — Employment of non-residents — Employment Article — General rule that employment income taxed by state in which services are rendered — Short-term visit exception to general rule.</fo:inline>
+            </fo:block>
+            
+            
+            
+            <fo:block margin="10px 10px 10px 2px" font-size="11px">
+                <fo:inline font-weight="bold">• This publication provides you with the following level of protection:</fo:inline>
+            </fo:block>
+        </fo:block>
+        <fo:block>
+            
+            
+            <fo:table table-layout="fixed" width="100%" margin="0px" padding-left="0px"><fo:table-body>
+                
+                    
+                
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block border="1px solid #7f7d7f" background-color="#f9f7f9" padding-left="5px" margin="8px 0px 5px 0px">
+                            <fo:block margin="12px" margin-left="0px">ITAA 1997 8-1</fo:block>
+                            <fo:block margin="12px" margin-left="0px"/>
+                            <fo:block margin="12px" margin-left="0px">ITAA 1997 Part 2-42</fo:block>
+                            <fo:block margin="12px" margin-left="0px"/>
+                            <fo:block margin="12px" margin-left="0px">Convention between Australia and Canada for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income
+                                [1981] ATS 14, as amended by the
+                                <fo:inline font-style="italic">Canadian protocol (No. 1)</fo:inline>
+                                [2002] ATS 26 (Canadian convention)</fo:block>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+            </fo:table-body></fo:table>
+            
+            <fo:table table-layout="auto" margin="0px" padding-left="0px" border-collapse="collapse"><fo:table-column column-width="20%"/><fo:table-column column-width="80%"/><fo:table-body>
+                
+                    
+                    
+                
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Contents</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">LEGALLY BINDING SECTION:</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">What this Ruling is about</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">1</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Previous Ruling</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">4</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Ruling</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">5</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Examples</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">17</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Date of effect</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">50</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">NOT LEGALLY BINDING SECTION:</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Appendix 1:</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-style="italic">
+                                <fo:inline font-weight="bold">Explanation</fo:inline>
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">51</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Appendix 2:</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-style="italic">
+                                <fo:inline font-weight="bold">Glossary of terms</fo:inline>
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">131</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Appendix 3:</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-style="italic">
+                                <fo:inline font-weight="bold">Extract from the Commentary to Article 15 of the OECD Model</fo:inline>
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">132</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">Appendix 4:</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+                <fo:table-row padding="0px" margin-left="0px">
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-style="italic">
+                                <fo:inline font-weight="bold">Detailed contents list</fo:inline>
+                            </fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                    <fo:table-cell padding="0px" padding-left="0px" margin-left="0px"><fo:block padding="3px" font-size="10.5px" margin-left="0px">
+                        <fo:block margin="0px 0px 0px 3px">
+                            <fo:inline font-weight="bold">133</fo:inline>
+                        </fo:block>
+                    </fo:block></fo:table-cell>
+                </fo:table-row>
+            </fo:table-body></fo:table>
+            
+            <fo:block font-weight="bold" font-size="13px" padding="10px 0px  0px 0px" margin="0px">
+                <fo:inline font-weight="bold">What this Ruling is about</fo:inline>
+            </fo:block>
+            
+            
+            <fo:block margin="10px 10px 10px 2px" font-size="11px">1. This Ruling explains: </fo:block>
+            
+                <fo:block margin-left="11mm">
+                    <fo:block margin="10px" margin-left="0px" font-size="11px">• the meaning of the term ‘employer’ in the general exclusion provision provided under the Income from Employment Article, or its equivalent,
+                        <fo:basic-link external-destination="url(io2147419sl396955277f1)" color="blue" text-decoration="underline"><fo:inline baseline-shift="super" font-size="80%">1</fo:inline></fo:basic-link> of Australia’s tax treaties (‘short-term visit exception’;
+                        <fo:basic-link external-destination="url(io2147419sl396955277f2)" color="blue" text-decoration="underline"><fo:inline baseline-shift="super" font-size="80%">2</fo:inline></fo:basic-link>) and</fo:block>
+                </fo:block>
+                <fo:block margin-left="11mm">
+                    <fo:block margin="10px" margin-left="0px" font-size="11px">• the approach to be taken in determining who the employer is for the purposes of the short-term visit exception.</fo:block>
+                </fo:block>
+            
+            
+            
+            
+            <fo:block margin="10px 10px 10px 2px" font-size="11px">2. This Ruling applies to entities that engage non-resident individuals to render services in Australia and to those non-resident individuals.</fo:block>
+        </fo:block>
+
+    
+</fo:block></fo:flow></fo:page-sequence></fo:root>
